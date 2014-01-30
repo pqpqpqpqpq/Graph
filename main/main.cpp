@@ -17,6 +17,9 @@
 #include "ui/widgets/mainwindow.h"
 #include "resmanager.h"
 
+/*
+	Test the git commit
+*/
 int main(int argc, char *argv[])
 {
   Q_INIT_RESOURCE(application);
