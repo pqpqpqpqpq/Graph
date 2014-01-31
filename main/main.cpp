@@ -17,6 +17,8 @@
 #include "ui/widgets/mainwindow.h"
 #include "resmanager.h"
 
+/* Git commit Test 2 */
+/* Roll back */
 int main(int argc, char *argv[])
 {
   Q_INIT_RESOURCE(application);
