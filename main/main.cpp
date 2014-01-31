@@ -18,6 +18,7 @@
 #include "resmanager.h"
 
 /* Git commit Test 2 */
+/* Add A */
 int main(int argc, char *argv[])
 {
   Q_INIT_RESOURCE(application);
